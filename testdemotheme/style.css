@@ -1,0 +1,49 @@
+/*
+ Theme Name:   Twenty Fifteen Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       Diana
+ Author URI:   https://github.com/khavDin
+ Template:     twentyfifteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentyfifteenchild
+*/
+
+
+body {
+    background-color: #ffffff;
+}  
+.file {
+    visibility: hidden;
+    position: absolute;
+  }
+  #_custom_product_delete_img{
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  .empty-custom{
+    text-align: center;
+    margin-right: 10px;
+    margin-left: auto;
+    display: block;
+    padding: 5px 50px;
+    margin-bottom: 40px;
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+  }
+
+  .file {
+    visibility: hidden;
+    position: absolute;
+  }
+
+.new-custom-publish{
+    color: #004085;
+    background-color: #cce5ff;
+    border-color: #b8daff;
+}
